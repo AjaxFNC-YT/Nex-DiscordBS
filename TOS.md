@@ -1,6 +1,6 @@
 # Nex Discord Bot - Terms of Service
 
-**Last updated:** December 15, 2025
+**Last updated:** June 25, 2026
 
 ## 1. Acceptance of Terms
 By using **Nex** (the "Bot"), you confirm that you are **at least 13 years old**, meeting Discord's minimum age requirement. By accessing or using Nex, you agree to be **legally bound** by these Terms of Service ("Terms"). If you do not agree, you must immediately stop using the Bot.
@@ -25,14 +25,16 @@ Nex is **not affiliated with, endorsed by, or partnered with Epic Games**. Fortn
 - You may stop using Nex at any time without penalty.
 
 ## 6. Data Storage
-- Nex does **not permanently store personal account data**.
+- Nex does **store personal account data**, but it may be removed at **anytime** using the logout command, or requesting a full data wipe in our discord server.
 - Upon logout, all account-related data is removed.
 - The **only data retained after logout** is premium status.
 
 ## 7. Premium Services & Refund Policy
 - Premium features are optional and may require payment.
 - **Refunds are available within 24 hours of the initial purchase only**.
-- After the 24-hour refund window ha## 8. Termination
+- After the 24-hour refund window has closed, you will not be able to receive a refund.
+
+## 8. Termination
 We reserve the right to suspend or terminate access to Nex at any time if the Bot is used in violation of these Terms, abused, or used in a manner that may cause harm or legal risk.
 
 ## 9. Account Risk & Liability Disclaimer

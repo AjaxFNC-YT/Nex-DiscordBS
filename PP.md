@@ -1,6 +1,6 @@
 # Nex Discord Bot - Privacy Policy
 
-**Last updated:** December 15, 2025
+**Last updated:** June 25, 2026
 
 ## 1. Legal Basis & Age Requirement
 By using Nex, you confirm that you are **13 years of age or older** and legally able to consent to data processing under applicable laws.
@@ -21,7 +21,7 @@ Nex may temporarily process:
 - To verify premium status
 
 ## 4. Data Storage & Retention
-- Nex does **not store account data long-term**.
+- Nex does **store account data long-term**, but it may be **removed at anytime using the logout command**.
 - Logging out removes all account-related data.
 - Premium status may remain stored unless a full deletion is requested.
 
